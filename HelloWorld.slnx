@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HelloWord/HelloWorld.csproj" />
   <Project Path="HelloWorldLib/HelloWorldLib.csproj" />
+  <Project Path="Part3Array/Part3Array.csproj" Id="b36d6189-bb3f-4699-8f9c-ed0da1d462f9" />
 </Solution>
